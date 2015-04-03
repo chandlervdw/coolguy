@@ -1,1 +1,3 @@
-Generated with [Gitbanner](https://github.com/mappum/gitbanner).
+# COOLGUY
+
+coolpeople never say shit like that
